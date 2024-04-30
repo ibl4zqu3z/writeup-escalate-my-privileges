@@ -1,11 +1,14 @@
-# writeup-escalate-my-privileges
+# Writeup escalate my privileges
 
-- Maquina: Escalate my privilege
+## Maquina
 
-- Categorias:
-  - Exploración de Vulnerabilidades
-  - Explotación de Vulnerabilidades
-  - Escalada de Privilegios
+Escalate my privilege
+
+## Categorias
+
+- Exploración de Vulnerabilidades
+- Explotación de Vulnerabilidades
+- Escalada de Privilegios
 
 ## Objetivo
 
